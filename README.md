@@ -35,9 +35,8 @@ Git | GitHub | VS Code | Google Colab
 ## 🚀 Featured Projects
 
 - **AnnData – Smart Farming Assistant:** AI-powered platform providing farmers with smart agricultural insights.
-- **WhisperNet:** Anonymous journaling application.
 - **OcuSense:** Explainable AI for Diabetic Retinopathy Screening.
-- **House Price Prediction:** Machine Learning model for predicting property prices.
+
 
 ## 📊 GitHub Stats
 
